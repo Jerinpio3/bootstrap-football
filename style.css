@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  
+}
+.carousel-inner{
+    height: 740px;
+}
+.carousel-innerbody{
+    height: 540px;
+}
+.containerfooter{
+    margin-top: 160px;
+}
+.cardhead h2{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    padding: 20px 0 20px 0;
+}
+.containermarketing h3{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 0 20px 0;
+    text-transform: uppercase;
+}
+.containerfooter{
+    margin: 380px;
+
+}
+.footer{
+    width: 1300px;
+    align-content:space-evenly;
+}
